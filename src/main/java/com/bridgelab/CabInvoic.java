@@ -14,5 +14,5 @@ public class CabInvoic {
         return totalfare;
     }
 
-}.
+}
 
